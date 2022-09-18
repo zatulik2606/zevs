@@ -1,0 +1,8 @@
+#ignore git add
+git add...
+
+# ignore the file  *.рус
+*.рус
+
+#ignore all files in directory cache
+cache/
